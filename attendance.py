@@ -1,7 +1,7 @@
 import tkinter as tk
 import cv2
 import os
-# import csv
+import csv
 import numpy as np
 from PIL import Image
 import pandas as pd
